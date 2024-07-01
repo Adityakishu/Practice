@@ -1,0 +1,9 @@
+.custom-card {
+    height: 350px; 
+  }
+  
+  .custom-card-img {
+    height: 200px; 
+    object-fit: cover; 
+  }
+  
